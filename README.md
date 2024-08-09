@@ -5,4 +5,5 @@ This mod adds the herobrine entity to the game. In this mod, herobrine will haun
 This mod requires BepInEx in order to work.
 
 # Credits
-The herobrine model was created by Philippe Oliveira: "Herobrine - Minecraft" (https://skfb.ly/6RoIB) by Philippe Oliveira is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+The herobrine model was created by Philippe Oliveira: 
+"Herobrine - Minecraft" (https://skfb.ly/6RoIB) by Philippe Oliveira is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
