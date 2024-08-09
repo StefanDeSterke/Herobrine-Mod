@@ -1,4 +1,4 @@
-# Herobrine mod
+# Herobrine Mod
 This mod adds the herobrine entity to the game Lethal Company. In this mod, herobrine will haunt players by appearing behind them and playing a haunting ambient Minecraft cave noise when players look at him. This mod works only on the client, so the same herobrine entity will not appear for multiple people. This also means not everyone has to have the mod installed in order for it to work.
 
 # Dependencies
